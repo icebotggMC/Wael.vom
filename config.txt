@@ -1,4 +1,4 @@
-owner=NTU0MDA1NjM5MDg5NjE4OTY0.D2WjSQ.kmSzM92_EzuzrTU9PFn8AbpnFoQ
+owner=539440510742429698
 prefix=!
 game=!help | !play
 stayinchannel=true
